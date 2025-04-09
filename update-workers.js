@@ -4,7 +4,7 @@ const HTML_CONTENT = `
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Card Tab</title>
+    <title>xVx路盲终结站</title>
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2280%22>⭐</text></svg>">
     <style>
     /* 全局样式 */
@@ -375,7 +375,7 @@ const HTML_CONTENT = `
 
 <body>
     <div class="fixed-elements">
-        <h3>我的导航</h3>
+        <h3>xVx引路灯</h3>
         <div class="center-content">
             <!-- 一言模块 -->
             <p id="hitokoto">
@@ -436,7 +436,7 @@ const HTML_CONTENT = `
         <!-- 版权信息 -->
         <div id="copyright" class="copyright">
             <!--请不要删除-->
-            <p>项目地址：<a href="https://github.com/hmhm2022/Card-Tab" target="_blank">GitHub</a> 如果喜欢，烦请点个star！</p>
+            <p>特别鸣谢：<a href="https://github.com/hmhm2022/Card-Tab" target="_blank">GitHub/hmhm2022</a> 如果喜欢，烦请点个star！</p>
         </div>
     </div>
 
